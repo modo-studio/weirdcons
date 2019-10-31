@@ -4,9 +4,9 @@
 
 ## Icons
 
-Weirdcons is our family of rare icons, a complete set crafted for web, mobile, and desktop apps. There are 16 of them for now, but this icon library will keep growing over time.
+Weirdcons is our family of rare icons, a complete free set crafted for web, mobile, and desktop apps. There are 16 of them for now, but this icon library will keep growing over time.
 
-We just released our Halloween bundle, it is available for downloading [here](https://github.com/modo-studio/weirdcons/archive/master.zip)!
+🎃 We just released our `Halloween` bundle, it is available for downloading [here](https://github.com/modo-studio/weirdcons/archive/master.zip)!
 
 ## Bundles
 
